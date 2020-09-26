@@ -1,2 +1,2 @@
-# WriteUps
-Collection of CTF write ups
+# Writeups
+Collection of CTF write-ups
