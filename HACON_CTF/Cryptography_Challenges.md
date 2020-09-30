@@ -35,8 +35,8 @@ UTSRQPONMcbaf_dcba`_X|\>TYXWPt76RQ3IHGFKJCg*)('&%A#?87<;:981Uvutsrqpo-,+k)"'
 &%|{Aba`_^]\[ZYXWVUTSRQPOejibafedc\aZ~A@?>=<;:9876543210/.-,+*)(DCBA#?>=<543
 Wd
 
-### After searching alot i find this on wikipedia "https://en.wikipedia.org/wiki/Malbolge"
+After searching alot i find this on wikipedia "https://en.wikipedia.org/wiki/Malbolge"
 
-### let's decode it now using is tool "http://www.malbolge.doleczek.pl/"
+let's decode it now using is tool "http://www.malbolge.doleczek.pl/"
 
 flag: HACSEC{3so7eRiC_Is_M3Ss3d_Up}
